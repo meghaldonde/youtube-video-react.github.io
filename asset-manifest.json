@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/youtube-video-react.github.io/static/css/main.4a966e5b.chunk.css",
+    "main.js": "/youtube-video-react.github.io/static/js/main.ef3a140f.chunk.js",
+    "main.js.map": "/youtube-video-react.github.io/static/js/main.ef3a140f.chunk.js.map",
+    "runtime-main.js": "/youtube-video-react.github.io/static/js/runtime-main.3c000757.js",
+    "runtime-main.js.map": "/youtube-video-react.github.io/static/js/runtime-main.3c000757.js.map",
+    "static/js/2.c744b77e.chunk.js": "/youtube-video-react.github.io/static/js/2.c744b77e.chunk.js",
+    "static/js/2.c744b77e.chunk.js.map": "/youtube-video-react.github.io/static/js/2.c744b77e.chunk.js.map",
+    "index.html": "/youtube-video-react.github.io/index.html",
+    "precache-manifest.e53d6ec2074a366dbec63e781d927ccb.js": "/youtube-video-react.github.io/precache-manifest.e53d6ec2074a366dbec63e781d927ccb.js",
+    "service-worker.js": "/youtube-video-react.github.io/service-worker.js",
+    "static/css/main.4a966e5b.chunk.css.map": "/youtube-video-react.github.io/static/css/main.4a966e5b.chunk.css.map",
+    "static/js/2.c744b77e.chunk.js.LICENSE.txt": "/youtube-video-react.github.io/static/js/2.c744b77e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3c000757.js",
+    "static/js/2.c744b77e.chunk.js",
+    "static/css/main.4a966e5b.chunk.css",
+    "static/js/main.ef3a140f.chunk.js"
+  ]
+}
